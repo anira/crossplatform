@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "org.mt.notetaker"
+        versionCode="10"
+        version   = "1.1.0">
+	
+	<!-- ich -->
+	<preference name="phonegap-version" value="2.7.0" />
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>NoteTaker</name>
+
+    <description>
+		notetaker
+    </description>
+
+    <author href="http://notetaker.mt.org" email="alina.sarca@gmail.com">
+        Alina Sarca
+    </author>
+
+</widget>
